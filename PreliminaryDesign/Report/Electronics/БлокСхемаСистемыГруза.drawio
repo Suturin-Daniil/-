@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-05-05T21:23:14.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="6mAPEFh97XwNshwBDTd1" version="24.2.2" type="device">
+  <diagram name="Page-1" id="YlFHqnPuB3_e51ZlvjOO">
+    <mxGraphModel dx="835" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fnLLKgzsWymPbyKzpY0e-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e3c800;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="fnLLKgzsWymPbyKzpY0e-80" target="fnLLKgzsWymPbyKzpY0e-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fnLLKgzsWymPbyKzpY0e-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="fnLLKgzsWymPbyKzpY0e-80" target="fnLLKgzsWymPbyKzpY0e-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fnLLKgzsWymPbyKzpY0e-80" value="&lt;b&gt;Блок контроля&lt;/b&gt;&lt;div&gt;&lt;b&gt;груза&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnLLKgzsWymPbyKzpY0e-81" value="&lt;b&gt;Сервопривод&lt;/b&gt;&lt;div&gt;&lt;b&gt;груза&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnLLKgzsWymPbyKzpY0e-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="fnLLKgzsWymPbyKzpY0e-84" target="fnLLKgzsWymPbyKzpY0e-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fnLLKgzsWymPbyKzpY0e-84" value="&lt;b&gt;GPS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnLLKgzsWymPbyKzpY0e-86" value="&lt;b&gt;Интерфейсы для&lt;/b&gt;&lt;div&gt;&lt;b&gt;внешних устройств&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
