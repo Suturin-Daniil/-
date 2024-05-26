@@ -1,0 +1,29 @@
+﻿absolute path:C:\Users\PC\Education\2024\FAKI_SKAT2024\Manufacturing\Model\Study1\1\Parametric Study 2\6
+init:1
+run_capture:1
+run_solver:1
+new_calc:1
+close_monitor:1
+run_convert:0
+isOK:1
+ForceNewCalc:1
+run_capture_prestate:1
+StartFldName:C:\Users\PC\Education\2024\FAKI_SKAT2024\Manufacturing\Model\Study1\1\Parametric Study 2\6\6.fld
+NewCalcStartCptName:
+TransTimeMoments:
+TransFldNames:
+CurSelTranFld:0
+Trans:0
+UsePrevRes:0
+ForcetoRunCPT:1
+ComputerName:
+port:52555
+ProcessResults:1
+LoadLastResult:0
+ProcessorsToUse:12
+LoadBaseFLDFile:0
+BaseFLDFile:
+id:{98E73390-8D2F-44FA-AA84-851F45B90BEB}
+calculation_state:15
+ForceContinue:0
+SolverProcessId:11440

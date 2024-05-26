@@ -1,0 +1,7 @@
+2024-May-22 14:44:19
+Computer name:	LAPTOP-EB2E7OE8
+Number of cores used in calculation:	12
+Configuration name:	Default
+Project name:	Study
+
+Warnings on last iteration: 

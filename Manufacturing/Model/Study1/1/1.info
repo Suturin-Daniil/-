@@ -5,7 +5,7 @@
                 Computer name:   LAPTOP-EB2E7OE8
                 User name:   PC
                 Processors:   AMD Ryzen 5 4600H with Radeon Graphics         
-                Memory:   7549 MB / 3989 MB
+                Memory:   7549 MB / 1918 MB
                 Operating system:   Windows 10 (or higher) (Version 10.0.19045)
                 CAD version:   SOLIDWORKS 2020 SP4.0
                 CPU speed:   3000 MHz
@@ -13,7 +13,7 @@
     General Info
                 Model:   Assembly.SLDASM
                 Project name:   Study
-                Project path:   C:\Users\PC\Education\2024\FAKI_SKAT2024\Manufacturing\Model\1
+                Project path:   C:\Users\PC\Education\2024\FAKI_SKAT2024\Manufacturing\Model\Study1\1
                 Units system:   SI (m-kg-s)
                 Analysis type:   External (exclude internal spaces)
                 Exclude cavities without flow conditions :   On
@@ -57,8 +57,8 @@
                 Number of cells in Z:   37
 
         Number Of Cells
-                Cells:   288784
-                Fluid cells:   288784
+                Cells:   269826
+                Fluid cells:   269826
                 Irregular cells:   0
                 Trimmed cells:   0
                 Maximum refinement level:   3
@@ -95,23 +95,23 @@
 
     Goals
                 
-                Name                          	Unit   	Value       	Progress   	Criteria        	Delta            	Use in convergence 
-                GG Average Total Pressure 1   	Pa     	101496.24   	100        	0.0174844       	0.0129865202     	On                 
-                GG Average Velocity 2         	m/s    	17.019      	100        	0.00058106947   	0.000544291482   	On                 
-                GG Force (Y) 3                	N      	20.885      	100        	1.23484905      	0.21230008       	On                 
-                GG Force (X) 4                	N      	0.402       	100        	0.336363822     	0.035964608      	On                 
+                Name                          	Unit   	Value       	Progress   	Criteria         	Delta            	Use in convergence 
+                GG Average Total Pressure 1   	Pa     	101496.23   	100        	0.0175518159     	0.011135321      	On                 
+                GG Average Velocity 2         	m/s    	17.018      	100        	0.000574136389   	0.000539141101   	On                 
+                GG Force (Y) 3                	N      	20.953      	100        	1.19825278       	0.119282964      	On                 
+                GG Force (X) 4                	N      	0.508       	100        	0.300705884      	0.0618988553     	On                 
 
     General Info
                 Run at:   LAPTOP-EB2E7OE8
                 Number of cores:   12
-                Iterations:   214
+                Iterations:   180
                 CPU time:   0 s
 
         Log
-                Mesh generation started	0:   23:59:20 , May 21
-                Mesh generation normally finished	0:   23:59:24 , May 21
-                Preparing data for calculation	0:   23:59:39 , May 21
-                Calculation started	0:   23:59:52 , May 21
-                Calculation has converged since the following criteria are satisfied:	214:   00:06:54 , May 22
-                    Goals are converged	214:   
-                Calculation finished	214:   00:06:59 , May 22
+                Mesh generation started	0:   14:06:21 , May 22
+                Mesh generation normally finished	0:   14:06:25 , May 22
+                Preparing data for calculation	0:   14:07:02 , May 22
+                Calculation started	0:   14:07:13 , May 22
+                Calculation has converged since the following criteria are satisfied:	180:   14:12:50 , May 22
+                    Goals are converged	180:   
+                Calculation finished	180:   14:12:55 , May 22
