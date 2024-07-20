@@ -1,0 +1,16 @@
+[StartTime]
+FusNose-Nose.MFC=2s
+[SolverState]
+FusNose-Nose.MFC=2
+[MainFrame]
+FusNose-Nose.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+FusNose-Nose.MFC=No
+[SolverType]
+FusNose-Nose.MFC=Linear Analysis
+[StudyType]
+FusNose-Nose.MFC=0
+[StudyName]
+FusNose-Nose.MFC=Nose
+[Solver]
+FusNose-Nose.MFC=Iterative
